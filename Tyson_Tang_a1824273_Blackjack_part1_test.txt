@@ -1,0 +1,7 @@
+Blackjack part 1
+Input			Expected output			Actual output
+Tim			Tim				Tim
+12			12				12
+a1824273		a1824273			a1824273
+sqrt(4)			sqrt(4)				sqrt(4)
+0.2			0.2				0.2

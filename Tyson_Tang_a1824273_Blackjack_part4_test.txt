@@ -1,0 +1,11 @@
+Blackjack part 4
+Input			Expected output			Actual output
+Tim             Tim, 8, 22, 17			Tim, 8, 22, 17
+12              12, 9, 3, 18			12, 9, 3, 18
+a1824273		a1824273, 6, 25, 11		a1824273, 6, 25, 11
+sqrt(4)			sqrt(4), 4, 8, 12		sqrt(4), 4, 8, 12
+0.2             0.2, 2, 17, 4			0.2, 2, 17, 4
+
+
+
+

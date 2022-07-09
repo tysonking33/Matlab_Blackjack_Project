@@ -1,0 +1,7 @@
+Blackjack part 5
+Input			Expected output                 Actual output
+Tim			Tim, 4, 3, 11, You lose             Tim, 4, 3, 11, You lose
+12			12, 9, 24, 12, You lose             12, 9, 24, 12, You lose
+a1824273		a1824273, 8, 21, 16, Blackjack	a1824273, 8, 21, 16, Blackjack
+sqrt(4)			sqrt(4), 3, 18, 12, You win     sqrt(4), 3, 18, 12, You win
+0.2			0.2, 4, 14, 14, Draw                0.2, 4, 14, 14, Draw
